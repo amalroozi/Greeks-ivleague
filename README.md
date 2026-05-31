@@ -1,2 +1,2 @@
 # Greeks-ivleague
-A black scholes model for pricing european options from scratch, and an implied volatility solver.
+A black scholes model for pricing european options from scratch,using all five greeks and an implied volatility solver.
