@@ -26,7 +26,7 @@ $$C = S \cdot N(d_1) - Ke^{-rT} \cdot N(d_2)$$
 
 $$P = Ke^{-rT} \cdot N(-d_2) - S \cdot N(-d_1)$$
 
-##Structure:
+## Structure:
 
 black_scholes.py   # pricing + greeks
 implied_vol.py     # Newton-Raphson IV solver
